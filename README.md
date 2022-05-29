@@ -21,3 +21,9 @@ Four Main options are given in the program
 3. Deletion of any member with name provided
 4. view the phone directory
 5. Exit
+
+#Project 3
+#Banking Management system software.
+A c++ software which exactly like real life bank software . Program used almost every concepts of C++ programming
+language .The program can save transactions,updation of the
+customer account.view the existing customers .Technology used:C++(class,OOPs,streams)
